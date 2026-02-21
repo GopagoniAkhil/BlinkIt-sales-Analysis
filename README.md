@@ -1,8 +1,5 @@
-# 📊 Blinkit Sales Analysis Dashboard
-
-![Dashboard Preview](Dashboard/Blinkit_Sales_Dashboard.png)
-
----
+Preview
+<img width="1248" height="710" alt="PowerBi DashBoard" src="https://github.com/user-attachments/assets/ef3550bf-823b-4453-a5e1-612377d434a7" />
 
 ## 📌 Project Overview
 
